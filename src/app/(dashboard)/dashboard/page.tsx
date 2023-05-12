@@ -5,7 +5,6 @@ import { chatHrefConstructor } from '@/lib/utils';
 import { ChevronRight } from 'lucide-react';
 import { getServerSession } from 'next-auth'
 import { notFound } from 'next/navigation';
-import { FC } from 'react'
 import Link from 'next/link';
 import Image from 'next/image';
 
